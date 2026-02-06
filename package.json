@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaAhumada/playwright-demo-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaAhumada/playwright-demo-exercise/issues"
+  },
+  "homepage": "https://github.com/LucaAhumada/playwright-demo-exercise#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.1"
+  }
+}
